@@ -5,6 +5,8 @@ This example package will be cloned and built as a dependency if you build the `
     swift run Dealer
 
 # License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fryan-sheldrake%2Fexample-package-playingcard.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fryan-sheldrake%2Fexample-package-playingcard?ref=badge_shield)
+
 
                                  Apache License
                            Version 2.0, January 2004
@@ -210,6 +212,9 @@ This example package will be cloned and built as a dependency if you build the `
 
    
    
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fryan-sheldrake%2Fexample-package-playingcard.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fryan-sheldrake%2Fexample-package-playingcard?ref=badge_large)
+
 ## Runtime Library Exception to the Apache 2.0 License: ##
 
 
